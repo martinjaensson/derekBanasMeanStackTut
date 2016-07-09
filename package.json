@@ -1,0 +1,22 @@
+{
+  "name": "derekbanasmeantut",
+  "version": "1.0.0",
+  "description": "Derek Banas Mean Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinjaensson/derekBanasMeanStackTut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinjaensson/derekBanasMeanStackTut/issues"
+  },
+  "homepage": "https://github.com/martinjaensson/derekBanasMeanStackTut#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
